@@ -30,6 +30,7 @@ defusedxml==0.7.1
 distlib==0.3.8
 distro==1.9.0
 distro-info==1.7+build1
+et_xmlfile==2.0.0
 executing==2.2.0
 fastjsonschema==2.21.1
 filelock==3.13.1
@@ -80,6 +81,7 @@ notebook_shim==0.2.4
 numpy==2.2.4
 oauthlib==3.2.2
 olefile==0.46
+openpyxl==3.1.5
 overrides==7.7.0
 packaging==24.2
 pandas==2.2.3
